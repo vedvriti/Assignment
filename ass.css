@@ -1,0 +1,29 @@
+p{
+    background-color:lavender;
+}
+.description em{
+font-size:xx-large;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.description em1{
+    color: blue;
+}
+p2{
+    color: blue;
+}
+.col{
+    border-color: white;
+}
+.col1{
+    border:solid 5px white;
+    background-color: white;
+}
+.col {
+    float: left;
+    width: 30%;
+    height: 500px;
+}
+
+.yellow-border {
+    border: 20px solid yellow;
+}
